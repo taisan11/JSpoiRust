@@ -2,5 +2,9 @@
 name = "JSpoiRust"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+authors = ["taisan11 <>"]
+description = "A Rust library for those who used JavaScript"
+homepage = "https://github.com/taisan11/JSpoiRust"
 
 [dependencies]
